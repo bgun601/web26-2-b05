@@ -1,0 +1,6 @@
+        /* 모니터 */
+        @media screen {
+            body {
+                background-color: yellow;
+            }
+        }
